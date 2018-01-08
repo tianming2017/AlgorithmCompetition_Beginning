@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="回溯法_带宽.cpp">
+    <ClCompile Include="递归与分治_棋盘覆盖问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
