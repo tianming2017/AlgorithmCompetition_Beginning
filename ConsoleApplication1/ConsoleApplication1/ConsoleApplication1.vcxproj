@@ -10,9 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="递归与分治_棋盘覆盖问题.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{5D825421-12E7-4EDB-B347-F5D94A5004EC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
