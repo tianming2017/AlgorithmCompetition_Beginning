@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="贪心法_乘船问题.cpp">
+    <ClCompile Include="动态规划初步_数字三角形.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
