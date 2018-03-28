@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="贪心法_乘船问题.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{5D825421-12E7-4EDB-B347-F5D94A5004EC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
